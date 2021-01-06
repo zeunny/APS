@@ -1,6 +1,3 @@
-### [카카오 인턴] 수식 최대화
-
-```python
 import re, itertools
 
 def solution(expression):
@@ -43,5 +40,3 @@ def solution(expression):
             maxV = abs(exp_list[0])
 
     return maxV
-```
-
