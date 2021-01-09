@@ -12,5 +12,7 @@
 |2021.01.05|프로그래머스|[멀리 뛰기](https://programmers.co.kr/learn/courses/30/lessons/12914)|[멀리뛰기.py](https://github.com/ee2e/APS/blob/master/programmers/%EB%A9%80%EB%A6%AC%20%EB%9B%B0%EA%B8%B0.py)|동적 계획법|레벨3|
 |2021.01.06|프로그래머스|[프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679)|[프렌즈4블록.py](https://github.com/ee2e/APS/blob/master/programmers/%ED%94%84%EB%A0%8C%EC%A6%884%EB%B8%94%EB%A1%9D.py)|시뮬레이션|레벨2|
 |2021.01.07|프로그래머스|[예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985)|[예상 대진표.py](https://github.com/ee2e/APS/blob/master/programmers/%EC%98%88%EC%83%81%20%EB%8C%80%EC%A7%84%ED%91%9C.py)|이분탐색|레벨2|
-|2021.01.08|프로그래머스|[가장 큰 정사각형 찾기](https://programmers.co.kr/learn/courses/30/lessons/12905)|가장 큰 정사각형 찾기.py|동적 계획법|레벨2|
+|2021.01.08|프로그래머스|[가장 큰 정사각형 찾기](https://programmers.co.kr/learn/courses/30/lessons/12905)|[가장 큰 정사각형 찾기.py](https://github.com/ee2e/APS/blob/master/programmers/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95%20%EC%B0%BE%EA%B8%B0.py)|동적 계획법|레벨2|
+|2021.01.09|프로그래머스|[쿼드압축 후 개수 세기](https://programmers.co.kr/learn/courses/30/lessons/68936#)|쿼드압축 후 개수 세기.py|재귀함수|레벨2|
+|2021.01.09|프로그래머스|[이진 변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129)|이진 변환 반복하기.py|문자열|레벨2|
 
