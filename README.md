@@ -15,4 +15,4 @@
 |2021.01.08|프로그래머스|[가장 큰 정사각형 찾기](https://programmers.co.kr/learn/courses/30/lessons/12905)|[가장 큰 정사각형 찾기.py](https://github.com/ee2e/APS/blob/master/programmers/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95%20%EC%B0%BE%EA%B8%B0.py)|동적 계획법|레벨2|
 |2021.01.09|프로그래머스|[쿼드압축 후 개수 세기](https://programmers.co.kr/learn/courses/30/lessons/68936#)|쿼드압축 후 개수 세기.py|재귀함수|레벨2|
 |2021.01.09|프로그래머스|[이진 변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129)|이진 변환 반복하기.py|문자열|레벨2|
-
+|2021.01.09|프로그래머스|[더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)|더 맵게.py|힙|레벨3|
