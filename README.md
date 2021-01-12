@@ -13,8 +13,9 @@
 |2021.01.06|프로그래머스|[프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679)|[프렌즈4블록.py](https://github.com/ee2e/APS/blob/master/programmers/%ED%94%84%EB%A0%8C%EC%A6%884%EB%B8%94%EB%A1%9D.py)|시뮬레이션|레벨2|
 |2021.01.07|프로그래머스|[예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985)|[예상 대진표.py](https://github.com/ee2e/APS/blob/master/programmers/%EC%98%88%EC%83%81%20%EB%8C%80%EC%A7%84%ED%91%9C.py)|이분탐색|레벨2|
 |2021.01.08|프로그래머스|[가장 큰 정사각형 찾기](https://programmers.co.kr/learn/courses/30/lessons/12905)|[가장 큰 정사각형 찾기.py](https://github.com/ee2e/APS/blob/master/programmers/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95%20%EC%B0%BE%EA%B8%B0.py)|동적 계획법|레벨2|
-|2021.01.09|프로그래머스|[쿼드압축 후 개수 세기](https://programmers.co.kr/learn/courses/30/lessons/68936#)|쿼드압축 후 개수 세기.py|재귀함수|레벨2|
-|2021.01.09|프로그래머스|[이진 변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129)|이진 변환 반복하기.py|문자열|레벨2|
-|2021.01.10|프로그래머스|[더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)|더 맵게.py|힙|레벨3|
-|2021.01.11|프로그래머스|[베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)|베스트앨범.py|해시|레벨3|
+|2021.01.09|프로그래머스|[쿼드압축 후 개수 세기](https://programmers.co.kr/learn/courses/30/lessons/68936#)|[쿼드압축 후 개수 세기.py](https://github.com/ee2e/APS/blob/master/programmers/%EC%BF%BC%EB%93%9C%EC%95%95%EC%B6%95%20%ED%9B%84%20%EA%B0%9C%EC%88%98%20%EC%84%B8%EA%B8%B0.py)|재귀함수|레벨2|
+|2021.01.09|프로그래머스|[이진 변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129)|[이진 변환 반복하기.py](https://github.com/ee2e/APS/blob/master/programmers/%EC%9D%B4%EC%A7%84%20%EB%B3%80%ED%99%98%20%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0.py)|문자열|레벨2|
+|2021.01.10|프로그래머스|[더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)|[더 맵게.py](https://github.com/ee2e/APS/blob/master/programmers/%EB%8D%94%20%EB%A7%B5%EA%B2%8C.py)|힙|레벨3|
+|2021.01.11|프로그래머스|[베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)|[베스트앨범.py](https://github.com/ee2e/APS/blob/master/programmers/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94.py)|해시|레벨3|
+|2021.01.12|방금그곡|[방금그곡](https://programmers.co.kr/learn/courses/30/lessons/17683)|방금그곡.py|문자열|레벨2|
 
