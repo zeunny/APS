@@ -17,5 +17,6 @@
 |2021.01.09|프로그래머스|[이진 변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129)|[이진 변환 반복하기.py](https://github.com/ee2e/APS/blob/master/programmers/%EC%9D%B4%EC%A7%84%20%EB%B3%80%ED%99%98%20%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0.py)|문자열|레벨2|
 |2021.01.10|프로그래머스|[더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)|[더 맵게.py](https://github.com/ee2e/APS/blob/master/programmers/%EB%8D%94%20%EB%A7%B5%EA%B2%8C.py)|힙|레벨3|
 |2021.01.11|프로그래머스|[베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)|[베스트앨범.py](https://github.com/ee2e/APS/blob/master/programmers/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94.py)|해시|레벨3|
-|2021.01.12|방금그곡|[방금그곡](https://programmers.co.kr/learn/courses/30/lessons/17683)|방금그곡.py|문자열|레벨2|
-|2021.01.13|단속카메라|[단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884)|단속카메라.py|탐욕법|레벨3|
+|2021.01.12|프로그래머스|[방금그곡](https://programmers.co.kr/learn/courses/30/lessons/17683)|방금그곡.py|문자열|레벨2|
+|2021.01.13|프로그래머스|[단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884)|단속카메라.py|탐욕법|레벨3|
+|2021.01.14|프로그래머스|[네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)|네트워크.py|DFS|레벨3|
