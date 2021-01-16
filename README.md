@@ -20,4 +20,5 @@
 |2021.01.12|프로그래머스|[방금그곡](https://programmers.co.kr/learn/courses/30/lessons/17683)|[방금그곡.py](https://github.com/ee2e/APS/blob/master/programmers/%EB%B0%A9%EA%B8%88%EA%B7%B8%EA%B3%A1.py)|문자열|레벨2|
 |2021.01.13|프로그래머스|[단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884)|[단속카메라.py](https://github.com/ee2e/APS/blob/master/programmers/%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC.py)|탐욕법|레벨3|
 |2021.01.14|프로그래머스|[네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)|[네트워크.py](https://github.com/ee2e/APS/blob/master/programmers/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.py)|DFS|레벨3|
-|2021.01.15|프로그래머스|[디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)|디스크 컨트롤러.py|힙|레벨3|
+|2021.01.15|프로그래머스|[디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)|[디스크 컨트롤러.py](https://github.com/ee2e/APS/blob/master/programmers/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.py)|힙|레벨3|
+|2021.01.16|프로그래머스|[야근 지수](https://programmers.co.kr/learn/courses/30/lessons/12927)|[야근 지수.py](https://github.com/ee2e/APS/blob/master/programmers/%EC%95%BC%EA%B7%BC%20%EC%A7%80%EC%88%98.py)|이진탐색|레벨3|
