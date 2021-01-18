@@ -23,4 +23,4 @@
 |2021.01.15|프로그래머스|[디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)|[디스크 컨트롤러.py](https://github.com/ee2e/APS/blob/master/programmers/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.py)|힙|레벨3|
 |2021.01.16|프로그래머스|[야근 지수](https://programmers.co.kr/learn/courses/30/lessons/12927)|[야근 지수.py](https://github.com/ee2e/APS/blob/master/programmers/%EC%95%BC%EA%B7%BC%20%EC%A7%80%EC%88%98.py)|이진탐색|레벨3|
 |2021.01.17|프로그래머스|[정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105)|[정수 삼각형.py](https://github.com/ee2e/APS/blob/master/programmers/%EC%A0%95%EC%88%98%20%EC%82%BC%EA%B0%81%ED%98%95.py)|동적 계획법|레벨3|
-
+|2021.01.18|프로그래머스|[가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189)|[가장 먼 노드.py](https://github.com/ee2e/APS/blob/master/가장 먼 노드.py)|그래프|레벨3|
