@@ -24,3 +24,5 @@
 | 2021.01.19 | 프로그래머스 |      [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861)       | [섬 연결하기.py](https://github.com/ee2e/APS/blob/master/programmers/%EC%84%AC%20%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0.py)                                                     | 탐욕법      | 레벨3  |
 |2021.01.20|프로그래머스|[순위](https://programmers.co.kr/learn/courses/30/lessons/49191)|순위.py|그래프|레벨3|
 |2021.01.21|프로그래머스|[단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163)|단어 변환.py|DFS|레벨3|
+|2021.01.22|프로그래머스|[이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628)|이중우선순위큐.py|힙|레벨3|
+
