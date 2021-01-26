@@ -8,7 +8,8 @@
 
 |    날짜    |                             문제                             |     풀이      | 알고리즘 | 난이도 |
 | :--------: | :----------------------------------------------------------: | :-----------: | :------: | :----: |
-|2021.01.25|[가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903?language=swift)|12903S.swift|문자열|레벨1|
+|2021.01.26|[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840?language=swift)|[42840S.swift](https://github.com/ee2e/APS/blob/master/programmers/42840S.playground/Contents.swift)|완전탐색|레벨1|
+|2021.01.25|[가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903?language=swift)|[12903S.swift](https://github.com/ee2e/APS/blob/master/programmers/12903S.playground/Contents.swift)|문자열|레벨1|
 | 2021.01.23 | [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748?language=swift) | [K번째수.swift](https://github.com/ee2e/APS/blob/master/programmers/K%EB%B2%88%EC%A7%B8%EC%88%98.playground/Contents.swift) |   정렬   | 레벨1  |
 
 
