@@ -8,6 +8,7 @@
 
 |    날짜    |                             문제                             |     풀이      | 알고리즘 | 난이도 |
 | :--------: | :----------------------------------------------------------: | :-----------: | :------: | :----: |
+|2021.01.27|[두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912?language=swift)|[12912S.swift](https://github.com/ee2e/APS/blob/master/programmers/12912S.playground/Contents.swift)||레벨1|
 |2021.01.26|[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840?language=swift)|[42840S.swift](https://github.com/ee2e/APS/blob/master/programmers/42840S.playground/Contents.swift)|완전탐색|레벨1|
 |2021.01.25|[가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903?language=swift)|[12903S.swift](https://github.com/ee2e/APS/blob/master/programmers/12903S.playground/Contents.swift)|문자열|레벨1|
 | 2021.01.23 | [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748?language=swift) | [K번째수.swift](https://github.com/ee2e/APS/blob/master/programmers/K%EB%B2%88%EC%A7%B8%EC%88%98.playground/Contents.swift) |   정렬   | 레벨1  |
@@ -20,6 +21,7 @@
 
 | 날짜       |                                         문제                                        | 풀이                                                                                                                                                                          | 알고리즘    | 난이도 |
 | :--------: | :----------: | :--------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------: |
+|2021.01.27|[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)|[신규 아이디 추천.py](https://github.com/ee2e/APS/blob/master/programmers/7241P.py)|문자열|레벨1|
 |2021.01.24|[여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164)|[여행경로.py](https://github.com/ee2e/APS/blob/master/programmers/%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9C.py)|여행경로|레벨3|
 |2021.01.23|[입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238#)|[입국심사.py](https://github.com/ee2e/APS/blob/master/programmers/%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC.py)|이분탐색|레벨3|
 |2021.01.22|[이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628)|[이중우선순위큐.py](https://github.com/ee2e/APS/blob/master/programmers/%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90.py)|힙|레벨3|
