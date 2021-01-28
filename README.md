@@ -21,6 +21,7 @@
 
 | 날짜       |                                         문제                                        | 풀이                                                                                                                                                                          | 알고리즘    | 난이도 |
 | :--------: | :----------: | :--------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------: |
+|2021.01.28|[메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)|[메뉴 리뉴얼.py](https://github.com/ee2e/APS/blob/master/programmers/72441P.py)||레벨2|
 |2021.01.27|[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)|[신규 아이디 추천.py](https://github.com/ee2e/APS/blob/master/programmers/7241P.py)|문자열|레벨1|
 |2021.01.24|[여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164)|[여행경로.py](https://github.com/ee2e/APS/blob/master/programmers/%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9C.py)|여행경로|레벨3|
 |2021.01.23|[입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238#)|[입국심사.py](https://github.com/ee2e/APS/blob/master/programmers/%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC.py)|이분탐색|레벨3|
