@@ -23,7 +23,8 @@
 
 | 날짜       |                                         문제                                        | 풀이                                                                                                                                                                          | 알고리즘    | 난이도 |
 | :--------: | :----------: | :--------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------: |
-|2021.01.30|[순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)|[72412.py](https://github.com/ee2e/APS/blob/master/programmers/72412P.py)|해시, 이분탐색|레벨2|
+|2021.01.31|[후보키](https://programmers.co.kr/learn/courses/30/lessons/42890#)|[42890.py](https://github.com/ee2e/APS/blob/master/programmers/72890.py)||레벨2|
+|2021.01.30|[순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)|[72412.py](https://github.com/ee2e/APS/blob/master/programmers/72412.py)|해시, 이분탐색|레벨2|
 |2021.01.28|[메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)|[72441.py](https://github.com/ee2e/APS/blob/master/programmers/72441P.py)||레벨2|
 |2021.01.27|[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)|[신규 아이디 추천.py](https://github.com/ee2e/APS/blob/master/programmers/7241P.py)|문자열|레벨1|
 |2021.01.24|[여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164)|[여행경로.py](https://github.com/ee2e/APS/blob/master/programmers/%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9C.py)|여행경로|레벨3|
