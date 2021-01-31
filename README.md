@@ -8,6 +8,9 @@
 
 |    날짜    |                             문제                             |     풀이      | 알고리즘 | 난이도 |
 | :--------: | :----------------------------------------------------------: | :-----------: | :------: | :----: |
+|2021.01.31|[문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918?language=swift)|[12918.swift](https://github.com/ee2e/APS/blob/master/programmers/12918.playground/Contents.swift)||레벨1|
+|2021.01.31|[짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937?language=swift)|[12937.swift](https://github.com/ee2e/APS/blob/master/programmers/12937.playground/Contents.swift)||레벨1|
+|2021.01.31|[문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925?language=swift)|[12925.swift](https://github.com/ee2e/APS/blob/master/programmers/12925.playground/Contents.swift)||레벨1|
 |2021.01.30|[서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919?language=swift)|[12919.swift](https://github.com/ee2e/APS/blob/master/programmers/12919.playground/Contents.swift)||레벨1|
 |2021.01.29|[수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922?language=swift)|[12922.swift](https://github.com/ee2e/APS/blob/master/programmers/12922.playground/Contents.swift)||레벨1|
 |2021.01.27|[두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912?language=swift)|[12912S.swift](https://github.com/ee2e/APS/blob/master/programmers/12912S.playground/Contents.swift)||레벨1|
