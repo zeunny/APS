@@ -26,6 +26,7 @@
 
 | 날짜       |                                         문제                                        | 풀이                                                                                                                                                                          | 알고리즘    | 난이도 |
 | :--------: | :----------: | :--------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------: |
+|2021.02.01|[캐시](https://programmers.co.kr/learn/courses/30/lessons/17680?language=python3#)|[17680.py](https://github.com/ee2e/APS/blob/master/programmers/17680.py)|해시 or 큐|레벨2|
 |2021.01.31|[후보키](https://programmers.co.kr/learn/courses/30/lessons/42890#)|[42890.py](https://github.com/ee2e/APS/blob/master/programmers/72890.py)||레벨2|
 |2021.01.30|[순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)|[72412.py](https://github.com/ee2e/APS/blob/master/programmers/72412.py)|해시, 이분탐색|레벨2|
 |2021.01.28|[메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)|[72441.py](https://github.com/ee2e/APS/blob/master/programmers/72441P.py)||레벨2|
