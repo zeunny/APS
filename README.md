@@ -8,6 +8,7 @@
 
 |    날짜    |                             문제                             |     풀이      | 알고리즘 | 난이도 |
 | :--------: | :----------------------------------------------------------: | :-----------: | :------: | :----: |
+|2021.02.03|[키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256?language=swift)|[67256.swift](https://github.com/ee2e/APS/blob/master/programmers/67256.playground/Contents.swift)|해시|레벨1|
 |2021.02.02|[크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061?language=swift)|[64061.swift](https://github.com/ee2e/APS/blob/master/programmers/64061.playground/Contents.swift)|스택|레벨1|
 |2021.01.31|[문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918?language=swift)|[12918.swift](https://github.com/ee2e/APS/blob/master/programmers/12918.playground/Contents.swift)||레벨1|
 |2021.01.31|[짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937?language=swift)|[12937.swift](https://github.com/ee2e/APS/blob/master/programmers/12937.playground/Contents.swift)||레벨1|
