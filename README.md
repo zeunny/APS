@@ -28,6 +28,7 @@
 
 | 날짜       |                                         문제                                        | 풀이                                                                                                                                                                          | 알고리즘    | 난이도 |
 | :--------: | :----------: | :--------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------: |
+|2021.02.06|[최고의 집합](https://programmers.co.kr/learn/courses/30/lessons/12938)|[12938.py](https://github.com/ee2e/APS/blob/master/programmers/67259.py)||레벨3|
 |2021.02.05|[방문 길이](https://programmers.co.kr/learn/courses/30/lessons/49994#)|[49994.py](https://github.com/ee2e/APS/blob/master/programmers/67259.py)||레벨3|
 |2021.02.04|[경주로 건설](https://programmers.co.kr/learn/courses/30/lessons/67259)|[67259.py](https://github.com/ee2e/APS/blob/master/programmers/67259.py)|힙|레벨3|
 |2021.02.03|[보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258)|[67258.py](https://github.com/ee2e/APS/blob/master/programmers/67258.py)||레벨3|
