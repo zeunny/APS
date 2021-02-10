@@ -29,6 +29,7 @@
 
 | 날짜       |                                         문제                                        | 풀이                                                                                                                                                                          | 알고리즘    | 난이도 |
 | :--------: | :----------: | :--------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------: |
+|2021.02.10|[불량 사용자](https://programmers.co.kr/learn/courses/30/lessons/64064)|[64064.py](https://github.com/ee2e/APS/blob/master/programmers/12904.py)||레벨3|
 |2021.02.09|[가장 긴 팰린드롬](https://programmers.co.kr/learn/courses/30/lessons/12904?language=python3)|[12904.py](https://github.com/ee2e/APS/blob/master/programmers/12904.py)||레벨3|
 |2021.02.08|[숫자 게임](https://programmers.co.kr/learn/courses/30/lessons/12987)|[12987.py](https://github.com/ee2e/APS/blob/master/programmers/12987.py)||레벨3|
 |2021.02.07|[호텔 방 배정](https://programmers.co.kr/learn/courses/30/lessons/64063#)|[64063.py](https://github.com/ee2e/APS/blob/master/programmers/67259.py)|해시|레벨4|
