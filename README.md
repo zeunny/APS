@@ -29,6 +29,7 @@
 
 | 날짜       |                                         문제                                        | 풀이                                                                                                                                                                          | 알고리즘    | 난이도 |
 | :--------: | :----------: | :--------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------: |
+|2021.02.13|[무지의 먹방 라이브](https://programmers.co.kr/learn/courses/30/lessons/42891#)|[42891.py](https://github.com/ee2e/APS/blob/master/programmers/42891.py)||레벨4|
 |2021.02.12|[합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413)|[72413.py](https://github.com/ee2e/APS/blob/master/programmers/12904.py)|다익스트라|레벨3|
 |2021.02.11|[배달](https://programmers.co.kr/learn/courses/30/lessons/12978)|[12978.py](https://github.com/ee2e/APS/blob/master/programmers/12904.py)|다익스트라|레벨3|
 |2021.02.10|[불량 사용자](https://programmers.co.kr/learn/courses/30/lessons/64064)|[64064.py](https://github.com/ee2e/APS/blob/master/programmers/12904.py)||레벨3|
