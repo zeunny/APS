@@ -8,6 +8,8 @@
 
 |    날짜    |                             문제                             |     풀이      | 알고리즘 | 난이도 |
 | :--------: | :----------------------------------------------------------: | :-----------: | :------: | :----: |
+|2021.02.14|[실패율](https://programmers.co.kr/learn/courses/30/lessons/42889?language=swift)|[42889.swift](https://github.com/ee2e/APS/blob/master/programmers/17681.playground/Contents.swift)||레벨1|
+|2021.02.13|[비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681?language=swift)|[17681.swift](https://github.com/ee2e/APS/blob/master/programmers/17681.playground/Contents.swift)|비트 연산|레벨1|
 |2021.02.08|[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410?language=swift)|[72410.swift](https://github.com/ee2e/APS/blob/master/programmers/72410.playground/Contents.swift)|문자열|레벨1|
 |2021.02.03|[키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256?language=swift)|[67256.swift](https://github.com/ee2e/APS/blob/master/programmers/67256.playground/Contents.swift)|해시|레벨1|
 |2021.02.02|[크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061?language=swift)|[64061.swift](https://github.com/ee2e/APS/blob/master/programmers/64061.playground/Contents.swift)|스택|레벨1|
