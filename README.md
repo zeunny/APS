@@ -31,6 +31,7 @@
 
 | 날짜       |                                         문제                                        | 풀이                                                                                                                                                                          | 알고리즘    | 난이도 |
 | :--------: | :----------: | :--------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------: |
+|2021.02.15|[압축](https://programmers.co.kr/learn/courses/30/lessons/17684)|[17684.py](https://github.com/ee2e/APS/blob/master/programmers/42891.py)||레벨2|
 |2021.02.13|[무지의 먹방 라이브](https://programmers.co.kr/learn/courses/30/lessons/42891#)|[42891.py](https://github.com/ee2e/APS/blob/master/programmers/42891.py)||레벨4|
 |2021.02.12|[합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413)|[72413.py](https://github.com/ee2e/APS/blob/master/programmers/12904.py)|다익스트라|레벨3|
 |2021.02.11|[배달](https://programmers.co.kr/learn/courses/30/lessons/12978)|[12978.py](https://github.com/ee2e/APS/blob/master/programmers/12904.py)|다익스트라|레벨3|
@@ -73,3 +74,4 @@
 | 2021.01.03 |        [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)       | [N으로 표현.py](https://github.com/ee2e/APS/blob/master/programmers/N%EC%9C%BC%EB%A1%9C%20%ED%91%9C%ED%98%84.py)                                                              | 동적 계획법 | 레벨3  |
 | 2021.01.02 |       [2 x n 타일링](https://programmers.co.kr/learn/courses/30/lessons/12900)      | [2xn타일링.py](https://github.com/ee2e/APS/blob/master/programmers/2xn%ED%83%80%EC%9D%BC%EB%A7%81.py)                                                                         | 동적 계획법 | 레벨3  |
 | 2021.01.01 |       [수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)       | [수식 최대화.py](https://github.com/ee2e/APS/blob/master/programmers/%EC%88%98%EC%8B%9D%20%EC%B5%9C%EB%8C%80%ED%99%94.py)                                                     |             | 레벨2  |
+
