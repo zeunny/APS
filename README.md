@@ -31,6 +31,7 @@
 
 | 날짜       |                                         문제                                        | 풀이                                                                                                                                                                          | 알고리즘    | 난이도 |
 | :--------: | :----------: | :--------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------: |
+|2021.02.23|[기둥과 보 설치](https://programmers.co.kr/learn/courses/30/lessons/60061)|[60061.py](https://github.com/ee2e/APS/blob/master/programmers/17678.py)|시뮬레이션|레벨3|
 |2021.02.22|[셔틀버스](https://programmers.co.kr/learn/courses/30/lessons/17678)|[17678.py](https://github.com/ee2e/APS/blob/master/programmers/17678.py)||레벨3|
 |2021.02.21|[튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)|[64065.py](https://github.com/ee2e/APS/blob/master/programmers/64065.py)||레벨2|
 |2021.02.20|[문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)|[60057.py](https://github.com/ee2e/APS/blob/master/programmers/60058.py)||레벨2|
