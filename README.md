@@ -31,8 +31,9 @@
 
 | 날짜       |                                         문제                                        | 풀이                                                                                                                                                                          | 알고리즘    | 난이도 |
 | :--------: | :----------: | :--------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------: |
+|2021.02.26|[오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)|[42888.py](https://github.com/ee2e/APS/blob/master/programmers/42888.py)||레벨2|
 |2021.02.25|[자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059#)|[60059.py](https://github.com/ee2e/APS/blob/master/programmers/17678.py)|시뮬레이션|레벨3|
-|2021.02.24|[n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687)|[17687.py](https://github.com/ee2e/APS/blob/master/programmers/17678.py)||레벨1|
+|2021.02.24|[n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687)|[17687.py](https://github.com/ee2e/APS/blob/master/programmers/17678.py)||레벨2|
 |2021.02.23|[기둥과 보 설치](https://programmers.co.kr/learn/courses/30/lessons/60061)|[60061.py](https://github.com/ee2e/APS/blob/master/programmers/17678.py)|시뮬레이션|레벨3|
 |2021.02.22|[셔틀버스](https://programmers.co.kr/learn/courses/30/lessons/17678)|[17678.py](https://github.com/ee2e/APS/blob/master/programmers/17678.py)||레벨3|
 |2021.02.21|[튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)|[64065.py](https://github.com/ee2e/APS/blob/master/programmers/64065.py)||레벨2|
