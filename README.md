@@ -1,5 +1,7 @@
 # APS(Algorithm Problem Solving)
 
+
+
 ## 프로그래머스
 
 ### Swift
@@ -21,10 +23,13 @@
 | 2021.01.25 |  [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903?language=swift)   |            [12903S.swift](https://github.com/ee2e/APS/blob/master/programmers/12903S.playground/Contents.swift)             |  문자열   | 레벨1  |
 | 2021.01.23 |         [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748?language=swift)         | [K번째수.swift](https://github.com/ee2e/APS/blob/master/programmers/K%EB%B2%88%EC%A7%B8%EC%88%98.playground/Contents.swift) |   정렬    | 레벨1  |
 
+
+
 ### Python
 
 |    날짜    |                                             문제                                              |                                                                                     풀이                                                                                      |    알고리즘    | 난이도 |
 | :--------: | :-------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------: | :----: |
+|2021.02.28|[길 찾기 게임](https://programmers.co.kr/learn/courses/30/lessons/42892)|[42892.py](https://github.com/ee2e/APS/blob/master/programmers/42891.py)|그래프|레벨3|
 |2021.02.27|[추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676)|[17676.py](https://github.com/ee2e/APS/blob/master/programmers/17676.py)||레벨3|
 | 2021.02.26 |            [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)             |                                                   [42888.py](https://github.com/ee2e/APS/blob/master/programmers/42888.py)                                                    |                | 레벨2  |
 | 2021.02.25 |          [자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059#)           |                                                   [60059.py](https://github.com/ee2e/APS/blob/master/programmers/17678.py)                                                    |   시뮬레이션   | 레벨3  |
