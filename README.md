@@ -29,6 +29,7 @@
 
 |    날짜    |                                             문제                                              |                                                                                     풀이                                                                                      |    알고리즘    | 난이도 |
 | :--------: | :-------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------: | :----: |
+|2021.03.01|[광고 삽입](https://programmers.co.kr/learn/courses/30/lessons/72414)|[72414.py](https://github.com/ee2e/APS/blob/master/programmers/72414.py)||레벨3|
 |2021.02.28|[길 찾기 게임](https://programmers.co.kr/learn/courses/30/lessons/42892)|[42892.py](https://github.com/ee2e/APS/blob/master/programmers/42891.py)|그래프|레벨3|
 |2021.02.27|[추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676)|[17676.py](https://github.com/ee2e/APS/blob/master/programmers/17676.py)||레벨3|
 | 2021.02.26 |            [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)             |                                                   [42888.py](https://github.com/ee2e/APS/blob/master/programmers/42888.py)                                                    |                | 레벨2  |
