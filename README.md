@@ -29,8 +29,9 @@
 
 |    날짜    |                                             문제                                              |                                                                                     풀이                                                                                      |    알고리즘    | 난이도 |
 | :--------: | :-------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------: | :----: |
+|2021.03.08|[자동완성](https://programmers.co.kr/learn/courses/30/lessons/17685)|[17685.py](https://github.com/ee2e/APS/blob/master/programmers/17685.py)|트라이|레벨4|
 |2021.03.05|[블록 이동하기](https://programmers.co.kr/learn/courses/30/lessons/60063)|[60063.py](https://github.com/ee2e/APS/blob/master/programmers/60063.py)|BFS|레벨3|
-|2021.03.04|[가사 검색](https://programmers.co.kr/learn/courses/30/lessons/60060)|[60060.py](https://github.com/ee2e/APS/blob/master/programmers/60060.py)|이분탐색|레벨4|
+|2021.03.04|[가사 검색](https://programmers.co.kr/learn/courses/30/lessons/60060)|[60060.py](https://github.com/ee2e/APS/blob/master/programmers/60060.py)|트라이|레벨4|
 |2021.03.03|[외벽 점검](https://programmers.co.kr/learn/courses/30/lessons/60062)|[60062.py](https://github.com/ee2e/APS/blob/master/programmers/60062.py)|순열, 조합|레벨3|
 | 2021.03.01 |             [광고 삽입](https://programmers.co.kr/learn/courses/30/lessons/72414)             |                                                   [72414.py](https://github.com/ee2e/APS/blob/master/programmers/72414.py)                                                    |                | 레벨3  |
 | 2021.02.28 |           [길 찾기 게임](https://programmers.co.kr/learn/courses/30/lessons/42892)            |                                                   [42892.py](https://github.com/ee2e/APS/blob/master/programmers/42891.py)                                                    |     그래프     | 레벨3  |
