@@ -1,5 +1,3 @@
-import collections
-
 def solution(distance, rocks, n):
     answer = 0
     
