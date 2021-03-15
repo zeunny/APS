@@ -29,6 +29,7 @@
 
 |    날짜    |                                             문제                                              |                                                                                     풀이                                                                                      |    알고리즘    | 난이도 |
 | :--------: | :-------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------: | :----: |
+|2021.03.15|[N-Queen](https://programmers.co.kr/learn/courses/30/lessons/12952)|[12952.py](https://github.com/ee2e/APS/blob/master/programmers/12952.py)||레벨3|
 |2021.03.14|[기지국 설치](https://programmers.co.kr/learn/courses/30/lessons/12979)|[12979.py](https://github.com/ee2e/APS/blob/master/programmers/12979.py)||레벨3|
 |2021.03.13|[거스름돈](https://programmers.co.kr/learn/courses/30/lessons/12907)|[12907.py](https://github.com/ee2e/APS/blob/master/programmers/12907.py)|동적 계획법|레벨3|
 |2021.03.12|[줄 서는 방법](https://programmers.co.kr/learn/courses/30/lessons/12936)|[12936.py](https://github.com/ee2e/APS/blob/master/programmers/12936.py)||레벨3|
