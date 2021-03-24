@@ -29,6 +29,7 @@
 
 |    날짜    |                                             문제                                              |                                                                                     풀이                                                                                      |    알고리즘    | 난이도 |
 | :--------: | :-------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------: | :----: |
+|2021.03.24|[쿠키 구입](https://programmers.co.kr/learn/courses/30/lessons/49995)|[49995.py](https://github.com/ee2e/APS/blob/master/programmers/49995.py)||레벨4|
 |2021.03.23|[블록 게임](https://programmers.co.kr/learn/courses/30/lessons/42894#)|[42894.py](https://github.com/ee2e/APS/blob/master/programmers/42894.py)|시뮬레이션|레벨4|
 |2021.03.18|[올바른 괄호의 갯수](https://programmers.co.kr/learn/courses/30/lessons/12929)|[12929.py](https://github.com/ee2e/APS/blob/master/programmers/12929.py)||레벨4|
 |2021.03.17|[풍선 터트리기](https://programmers.co.kr/learn/courses/30/lessons/68646)|[68646.py](https://github.com/ee2e/APS/blob/master/programmers/68646.py)||레벨3|
