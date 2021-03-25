@@ -29,6 +29,7 @@
 
 |    날짜    |                                             문제                                              |                                                                                     풀이                                                                                      |    알고리즘    | 난이도 |
 | :--------: | :-------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------: | :----: |
+|2021.03.25|[스티커 모으기(2)](https://programmers.co.kr/learn/courses/30/lessons/12971)|[12971.py](https://github.com/ee2e/APS/blob/master/programmers/12971.py)|동적 계획법|레벨3|
 |2021.03.24|[쿠키 구입](https://programmers.co.kr/learn/courses/30/lessons/49995)|[49995.py](https://github.com/ee2e/APS/blob/master/programmers/49995.py)||레벨4|
 |2021.03.23|[블록 게임](https://programmers.co.kr/learn/courses/30/lessons/42894#)|[42894.py](https://github.com/ee2e/APS/blob/master/programmers/42894.py)|시뮬레이션|레벨4|
 |2021.03.18|[올바른 괄호의 갯수](https://programmers.co.kr/learn/courses/30/lessons/12929)|[12929.py](https://github.com/ee2e/APS/blob/master/programmers/12929.py)||레벨4|
@@ -37,7 +38,7 @@
 |2021.03.14|[기지국 설치](https://programmers.co.kr/learn/courses/30/lessons/12979)|[12979.py](https://github.com/ee2e/APS/blob/master/programmers/12979.py)||레벨3|
 |2021.03.13|[거스름돈](https://programmers.co.kr/learn/courses/30/lessons/12907)|[12907.py](https://github.com/ee2e/APS/blob/master/programmers/12907.py)|동적 계획법|레벨3|
 |2021.03.12|[줄 서는 방법](https://programmers.co.kr/learn/courses/30/lessons/12936)|[12936.py](https://github.com/ee2e/APS/blob/master/programmers/12936.py)||레벨3|
-|2021.03.11|[징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236)|[43236.py](https://github.com/ee2e/APS/blob/master/programmers/42236.py)|이분탐색|레벨4|
+|2021.03.11|[징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236)|[43236.py](https://github.com/ee2e/APS/blob/master/programmers/43236.py)|이분탐색|레벨4|
 |2021.03.10|[하노이의 탑](https://programmers.co.kr/learn/courses/30/lessons/12946)|[12946.py](https://github.com/ee2e/APS/blob/master/programmers/12946.py)||레벨3|
 |2021.03.09|[도둑질](https://programmers.co.kr/learn/courses/30/lessons/42897)|[42897.py](https://github.com/ee2e/APS/blob/master/programmers/42897.py)|동적 계획법|레벨4|
 |2021.03.08|[자동완성](https://programmers.co.kr/learn/courses/30/lessons/17685)|[17685.py](https://github.com/ee2e/APS/blob/master/programmers/17685.py)|트라이|레벨4|
