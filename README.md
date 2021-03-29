@@ -29,6 +29,7 @@
 
 |    날짜    |                                             문제                                              |                                                                                     풀이                                                                                      |    알고리즘    | 난이도 |
 | :--------: | :-------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------: | :----: |
+|2021.03.28|[3 x n 타일링](https://programmers.co.kr/learn/courses/30/lessons/12902)|[12902.py](https://github.com/ee2e/APS/blob/master/programmers/12902.py)|동적 계획법|레벨4|
 |2021.03.27|[매칭 점수](https://programmers.co.kr/learn/courses/30/lessons/42893)|[42893.py](https://github.com/ee2e/APS/blob/master/programmers/42893.py)|정규 표현식|레벨3|
 |2021.03.25|[스티커 모으기(2)](https://programmers.co.kr/learn/courses/30/lessons/12971)|[12971.py](https://github.com/ee2e/APS/blob/master/programmers/12971.py)|동적 계획법|레벨3|
 |2021.03.24|[쿠키 구입](https://programmers.co.kr/learn/courses/30/lessons/49995)|[49995.py](https://github.com/ee2e/APS/blob/master/programmers/49995.py)||레벨4|
