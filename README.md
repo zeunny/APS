@@ -8,9 +8,12 @@
 
 |    날짜    |                        문제                         |                             풀이                             | 알고리즘 | 난이도 |
 | :--------: | :-------------------------------------------------: | :----------------------------------------------------------: | :------: | :----: |
-| 2021.03.31 | [유기농 배추](https://www.acmicpc.net/problem/1012) | [1012.py](https://github.com/ee2e/APS/blob/master/bakjoon/1012.py) |   DFS    | 실버2  |
+|2021.04.01|[숨바꼭질](https://www.acmicpc.net/problem/1697)|[1697.py](https://github.com/ee2e/APS/blob/master/bakjoon/1697.py)|BFS|실버1|
+|2021.04.01|[토마토](https://www.acmicpc.net/problem/7576)|[7576.py](https://github.com/ee2e/APS/blob/master/bakjoon/7576.py)|BFS|실버1|
+|2021.04.01|[정수 삼각형](https://www.acmicpc.net/problem/1932)|[1932.py](https://github.com/ee2e/APS/blob/master/bakjoon/1932.py)|동적 계획법|실버1|
+|2021.04.01|[미로 탐색](https://www.acmicpc.net/problem/2178)|[2178.py](https://github.com/ee2e/APS/blob/master/bakjoon/2178.py)|BFS|실버1|
 |2021.04.01|[RGB거리](https://www.acmicpc.net/problem/1149)|[1149.py](https://github.com/ee2e/APS/blob/master/bakjoon/1149.py)|동적 계획법|실버1|
-
+| 2021.03.31 | [유기농 배추](https://www.acmicpc.net/problem/1012) | [1012.py](https://github.com/ee2e/APS/blob/master/bakjoon/1012.py) |   DFS    | 실버2  |
 
 
 
