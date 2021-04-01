@@ -9,6 +9,7 @@
 |    날짜    |                        문제                         |                             풀이                             | 알고리즘 | 난이도 |
 | :--------: | :-------------------------------------------------: | :----------------------------------------------------------: | :------: | :----: |
 | 2021.03.31 | [유기농 배추](https://www.acmicpc.net/problem/1012) | [1012.py](https://github.com/ee2e/APS/blob/master/bakjoon/1012.py) |   DFS    | 실버2  |
+|2021.04.01|[RGB거리](https://www.acmicpc.net/problem/1149)|[1149.py](https://github.com/ee2e/APS/blob/master/bakjoon/1149.py)|동적 계획법|실버1|
 
 
 
