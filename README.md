@@ -8,6 +8,7 @@
 
 |    날짜    |                        문제                         |                             풀이                             | 알고리즘 | 난이도 |
 | :--------: | :-------------------------------------------------: | :----------------------------------------------------------: | :------: | :----: |
+|2021.04.02|[치킨 배달](https://www.acmicpc.net/problem/15686)|[15686.py](https://github.com/ee2e/APS/blob/master/bakjoon/15686.py)|시뮬레이션|골드5|
 |2021.04.01|[숨바꼭질](https://www.acmicpc.net/problem/1697)|[1697.py](https://github.com/ee2e/APS/blob/master/bakjoon/1697.py)|BFS|실버1|
 |2021.04.01|[토마토](https://www.acmicpc.net/problem/7576)|[7576.py](https://github.com/ee2e/APS/blob/master/bakjoon/7576.py)|BFS|실버1|
 |2021.04.01|[정수 삼각형](https://www.acmicpc.net/problem/1932)|[1932.py](https://github.com/ee2e/APS/blob/master/bakjoon/1932.py)|동적 계획법|실버1|
