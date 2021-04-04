@@ -8,6 +8,10 @@
 
 |    날짜    |                        문제                         |                             풀이                             | 알고리즘 | 난이도 |
 | :--------: | :-------------------------------------------------: | :----------------------------------------------------------: | :------: | :----: |
+|2021.04.04|[큐 2](https://www.acmicpc.net/problem/18528)|[18528.py](https://github.com/ee2e/APS/blob/master/bakjoon/18528.py)|큐|실버4|
+|2021.04.04|[괄호](https://www.acmicpc.net/problem/9012)|[9012.py](https://github.com/ee2e/APS/blob/master/bakjoon/9012.py)|스택|실버4|
+|2021.04.04|[스택](https://www.acmicpc.net/problem/10828)|[10828.py](https://github.com/ee2e/APS/blob/master/bakjoon/10828.py)|스택|실버4|
+|2021.04.04|[요세푸스 문제](https://www.acmicpc.net/problem/1158)|[1158.py](https://github.com/ee2e/APS/blob/master/bakjoon/1158.py)|자료구조|실버5|
 |2021.04.03|[포도주 시식](https://www.acmicpc.net/problem/2156)|[2156.py](https://github.com/ee2e/APS/blob/master/bakjoon/2156.py)|동적 계획법|실버1|
 |2021.04.03|[연구소](https://www.acmicpc.net/problem/14502)|[14502.py](https://github.com/ee2e/APS/blob/master/bakjoon/14502.py)|DFS|골드5|
 |2021.04.02|[치킨 배달](https://www.acmicpc.net/problem/15686)|[15686.py](https://github.com/ee2e/APS/blob/master/bakjoon/15686.py)|시뮬레이션|골드5|
