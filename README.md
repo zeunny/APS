@@ -8,7 +8,11 @@
 
 |    날짜    |                        문제                         |                             풀이                             | 알고리즘 | 난이도 |
 | :--------: | :-------------------------------------------------: | :----------------------------------------------------------: | :------: | :----: |
-|2021.04.04|[큐 2](https://www.acmicpc.net/problem/18528)|[18528.py](https://github.com/ee2e/APS/blob/master/bakjoon/18528.py)|큐|실버4|
+|2021.04.05|[후위 표기식2](https://www.acmicpc.net/problem/1935)|[1935.py](https://github.com/ee2e/APS/blob/master/bakjoon/1935.py)|스택|실버3|
+|2021.04.05|[스택 수열](https://www.acmicpc.net/problem/1874)|[1874.py](https://github.com/ee2e/APS/blob/master/bakjoon/1874.py)|스택|실버3|
+|2021.04.05|[덱](https://www.acmicpc.net/problem/10866)|[10866.py](https://github.com/ee2e/APS/blob/master/bakjoon/10866.py)|덱|실버4|
+|2021.04.05|[카드2](https://www.acmicpc.net/problem/2164)|[2164.py](https://github.com/ee2e/APS/blob/master/bakjoon/2164.py)|큐|실버4|
+|2021.04.04|[큐2](https://www.acmicpc.net/problem/18528)|[18528.py](https://github.com/ee2e/APS/blob/master/bakjoon/18528.py)|큐|실버4|
 |2021.04.04|[괄호](https://www.acmicpc.net/problem/9012)|[9012.py](https://github.com/ee2e/APS/blob/master/bakjoon/9012.py)|스택|실버4|
 |2021.04.04|[스택](https://www.acmicpc.net/problem/10828)|[10828.py](https://github.com/ee2e/APS/blob/master/bakjoon/10828.py)|스택|실버4|
 |2021.04.04|[요세푸스 문제](https://www.acmicpc.net/problem/1158)|[1158.py](https://github.com/ee2e/APS/blob/master/bakjoon/1158.py)|자료구조|실버5|
