@@ -8,6 +8,8 @@
 
 |    날짜    |                        문제                         |                             풀이                             | 알고리즘 | 난이도 |
 | :--------: | :-------------------------------------------------: | :----------------------------------------------------------: | :------: | :----: |
+|2021.04.08|[탑](https://www.acmicpc.net/problem/2493)|[2493.py](https://github.com/ee2e/APS/blob/master/bakjoon/2493.py)|스택|골드5|
+|2021.04.08|[괄호 제거](https://www.acmicpc.net/problem/2800)|[2800.py](https://github.com/ee2e/APS/blob/master/bakjoon/2800.py)|스택|골드5|
 |2021.04.07|[괄호의 값](https://www.acmicpc.net/problem/2504)|[2504.py](https://github.com/ee2e/APS/blob/master/bakjoon/2504.py)|스택|실버2|
 |2021.04.07|[풍선 터뜨리기](https://www.acmicpc.net/problem/2346)|[2346.py](https://github.com/ee2e/APS/blob/master/bakjoon/2346.py)||실버3|
 |2021.04.06|[프린터 큐](https://www.acmicpc.net/problem/1966)|[1966.py](https://github.com/ee2e/APS/blob/master/bakjoon/1966.py)|큐|실버3|
