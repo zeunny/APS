@@ -8,6 +8,8 @@
 
 |    날짜    |                        문제                         |                             풀이                             | 알고리즘 | 난이도 |
 | :--------: | :-------------------------------------------------: | :----------------------------------------------------------: | :------: | :----: |
+|2021.04.10|[달력](https://www.acmicpc.net/problem/20207)|[20207.py](https://github.com/ee2e/APS/blob/master/bakjoon/20207.py)|구현|실버1|
+|2021.04.10|[기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787)|[15787.py](https://github.com/ee2e/APS/blob/master/bakjoon/15787.py)|구현|실버2|
 |2021.04.09|[나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)|[1620.py](https://github.com/ee2e/APS/blob/master/bakjoon/1620.py)||실버4|
 |2021.04.09|[후위 표기식](https://www.acmicpc.net/problem/1918)|[1918.py](https://github.com/ee2e/APS/blob/master/bakjoon/1918.py)|스택|골드4|
 |2021.04.08|[탑](https://www.acmicpc.net/problem/2493)|[2493.py](https://github.com/ee2e/APS/blob/master/bakjoon/2493.py)|스택|골드5|
