@@ -8,7 +8,8 @@
 
 |    날짜    |                        문제                         |                             풀이                             | 알고리즘 | 난이도 |
 | :--------: | :-------------------------------------------------: | :----------------------------------------------------------: | :------: | :----: |
-|2021.04.19|[빗물](https://www.acmicpc.net/problem/14719)|[14719.py](https://github.com/ee2e/APS/blob/master/bakjoon/14719.py)||골드5|
+|2021.04.20|[ZOAC](https://www.acmicpc.net/problem/16719)|[16719.py](https://github.com/ee2e/APS/blob/master/bakjoon/16719.py)|구현|골드5|
+|2021.04.19|[빗물](https://www.acmicpc.net/problem/14719)|[14719.py](https://github.com/ee2e/APS/blob/master/bakjoon/14719.py)|구현|골드5|
 |2021.04.10|[문자열 집합](https://www.acmicpc.net/problem/14425)|[14425.py](https://github.com/ee2e/APS/blob/master/bakjoon/14425.py)||실버3|
 |2021.04.10|[달력](https://www.acmicpc.net/problem/20207)|[20207.py](https://github.com/ee2e/APS/blob/master/bakjoon/20207.py)|구현|실버1|
 |2021.04.10|[기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787)|[15787.py](https://github.com/ee2e/APS/blob/master/bakjoon/15787.py)|구현|실버2|
