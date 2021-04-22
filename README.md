@@ -8,6 +8,7 @@
 
 |    날짜    |                        문제                         |                             풀이                             | 알고리즘 | 난이도 |
 | :--------: | :-------------------------------------------------: | :----------------------------------------------------------: | :------: | :----: |
+|2021.04.22|[미세먼지 안녕](https://www.acmicpc.net/problem/17144)|[17144.py](https://github.com/ee2e/APS/blob/master/bakjoon/17144.py)|시뮬레이션|골드5|
 |2021.04.21|[인구 이동](https://www.acmicpc.net/problem/16234)|[16234.py](https://github.com/ee2e/APS/blob/master/bakjoon/16234.py)|시뮬레이션|골드5|
 |2021.04.20|[ZOAC](https://www.acmicpc.net/problem/16719)|[16719.py](https://github.com/ee2e/APS/blob/master/bakjoon/16719.py)|구현|골드5|
 |2021.04.19|[빗물](https://www.acmicpc.net/problem/14719)|[14719.py](https://github.com/ee2e/APS/blob/master/bakjoon/14719.py)|구현|골드5|
