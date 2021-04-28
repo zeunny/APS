@@ -8,6 +8,7 @@
 
 |    날짜    |                        문제                         |                             풀이                             | 알고리즘 | 난이도 |
 | :--------: | :-------------------------------------------------: | :----------------------------------------------------------: | :------: | :----: |
+|2021.04.28|[그룹 단어 체커](https://www.acmicpc.net/problem/1316)|[1316.py](https://github.com/ee2e/APS/blob/master/bakjoon/1316.py)||실버5|
 |2021.04.24|[성냥개비](https://www.acmicpc.net/problem/3687)|[3687.py](https://github.com/ee2e/APS/blob/master/bakjoon/3687.py)|동적 계획법|골드2|
 |2021.04.23|[아기상어](https://www.acmicpc.net/problem/16236)|[16236.py](https://github.com/ee2e/APS/blob/master/bakjoon/16236.py)|시뮬레이션|골드4|
 |2021.04.22|[미세먼지 안녕](https://www.acmicpc.net/problem/17144)|[17144.py](https://github.com/ee2e/APS/blob/master/bakjoon/17144.py)|시뮬레이션|골드5|
