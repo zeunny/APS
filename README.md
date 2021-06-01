@@ -8,6 +8,8 @@
 
 |    날짜    |                        문제                         |                             풀이                             | 알고리즘 | 난이도 |
 | :--------: | :-------------------------------------------------: | :----------------------------------------------------------: | :------: | :----: |
+|2021.06.01|[수 정렬하기](https://www.acmicpc.net/problem/2750)|[2750.py](https://github.com/ee2e/APS/blob/master/bakjoon/2750.py)|정렬|브론즈1|
+|2021.06.01|[수 찾기](https://www.acmicpc.net/problem/1920)|[1920.py](https://github.com/ee2e/APS/blob/master/bakjoon/1920.py)|이분탐색|실버4|
 |2021.05.06|[두 용액](https://www.acmicpc.net/problem/2470)|[2470.py](https://github.com/ee2e/APS/blob/master/bakjoon/2470.py)|투 포인터|골드5|
 |2021.04.28|[그룹 단어 체커](https://www.acmicpc.net/problem/1316)|[1316.py](https://github.com/ee2e/APS/blob/master/bakjoon/1316.py)||실버5|
 |2021.04.24|[성냥개비](https://www.acmicpc.net/problem/3687)|[3687.py](https://github.com/ee2e/APS/blob/master/bakjoon/3687.py)|동적 계획법|골드2|

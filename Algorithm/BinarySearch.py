@@ -28,3 +28,18 @@ def BinarySearch(Array, x):
       left = mid+1
   
   return -1
+
+# 3. 손코딩
+def BinarySearch(Array, x):
+  Array.sort()
+  left, right = 0, len(Array)-1
+
+  while left <= right:
+    mid = (left+right)//2
+    if Array[mid] == x:
+      return mid
+
+    if Array[mid] < x:
+      left = mid+1
+    else:
+      right = mid-1
