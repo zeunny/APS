@@ -25,6 +25,42 @@ def merge(A, B):
 
   return new_array
 
+def BubbleSort(array):
+  N = len(array)
+  for i in range(N-1):
+    flag = False
+    for j in range(N-1-i):
+      if array[j] > array[j+1]:
+        flag = True
+        array[j], array[j+1] = array[j+1], array[j]
+    if not flag:
+      break
+  return array
+
+def SelectionSort(array):
+  N = len(array)
+  for i in range(N-1):
+    min_index = i
+    for j in range(i+1, N):
+      if array[j] < array[min_index]:
+        min_index = j
+    array[i], array[min_index] = array[min_index], array[i]
+  return array
+
+def InsertionSort(array):
+  N = len(array)
+  for i in range(1, N):
+    value = array[i]
+    for j in range(i-1, -1, -1):
+      if array[j] > value:
+        array[j+1] = array[j]
+      else:
+        array[j+1] = value
+        break
+    else:
+      array[j] = value
+  return array
+
 array = []
 
 N = int(input())
@@ -32,5 +68,5 @@ N = int(input())
 for _ in range(N):
     array.append(int(input()))
     
-for x in MergeSort(array):
+for x in InsertionSort(array):
     print(x)
