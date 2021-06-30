@@ -78,6 +78,8 @@
 
 |    날짜    |                                             문제                                              |                                                                                     풀이                                                                                      |    알고리즘    | 난이도 |
 | :--------: | :-------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------: | :----: |
+|2021.06.30|[약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884)|[77884.py](https://github.com/ee2e/APS/blob/master/programmers/77884.py)||레벨1|
+|2021.06.30|[음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)|[76501.py](https://github.com/ee2e/APS/blob/master/programmers/76501.py)||레벨1|
 |2021.05.12|[로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)|[77484.py](https://github.com/ee2e/APS/blob/master/programmers/77484.py)||레벨1|
 |2021.03.28|[3 x n 타일링](https://programmers.co.kr/learn/courses/30/lessons/12902)|[12902.py](https://github.com/ee2e/APS/blob/master/programmers/12902.py)|동적 계획법|레벨4|
 |2021.03.27|[매칭 점수](https://programmers.co.kr/learn/courses/30/lessons/42893)|[42893.py](https://github.com/ee2e/APS/blob/master/programmers/42893.py)|정규 표현식|레벨3|
