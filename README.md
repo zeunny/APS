@@ -53,27 +53,6 @@
 
 ## 프로그래머스
 
-### Swift
-
-|    날짜    |                                                문제                                                |                                                            풀이                                                             | 알고리즘  | 난이도 |
-| :--------: | :------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: | :-------: | :----: |
-| 2021.02.14 |         [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889?language=swift)          |             [42889.swift](https://github.com/ee2e/APS/blob/master/programmers/17681.playground/Contents.swift)              |           | 레벨1  |
-| 2021.02.13 |        [비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681?language=swift)         |             [17681.swift](https://github.com/ee2e/APS/blob/master/programmers/17681.playground/Contents.swift)              | 비트 연산 | 레벨1  |
-| 2021.02.08 |    [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410?language=swift)     |             [72410.swift](https://github.com/ee2e/APS/blob/master/programmers/72410.playground/Contents.swift)              |  문자열   | 레벨1  |
-| 2021.02.03 |      [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256?language=swift)      |             [67256.swift](https://github.com/ee2e/APS/blob/master/programmers/67256.playground/Contents.swift)              |   해시    | 레벨1  |
-| 2021.02.02 |  [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061?language=swift)   |             [64061.swift](https://github.com/ee2e/APS/blob/master/programmers/64061.playground/Contents.swift)              |   스택    | 레벨1  |
-| 2021.01.31 |   [문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918?language=swift)    |             [12918.swift](https://github.com/ee2e/APS/blob/master/programmers/12918.playground/Contents.swift)              |           | 레벨1  |
-| 2021.01.31 |       [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937?language=swift)       |             [12937.swift](https://github.com/ee2e/APS/blob/master/programmers/12937.playground/Contents.swift)              |           | 레벨1  |
-| 2021.01.31 | [문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925?language=swift)  |             [12925.swift](https://github.com/ee2e/APS/blob/master/programmers/12925.playground/Contents.swift)              |           | 레벨1  |
-| 2021.01.30 |  [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919?language=swift)   |             [12919.swift](https://github.com/ee2e/APS/blob/master/programmers/12919.playground/Contents.swift)              |           | 레벨1  |
-| 2021.01.29 | [수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922?language=swift) |             [12922.swift](https://github.com/ee2e/APS/blob/master/programmers/12922.playground/Contents.swift)              |           | 레벨1  |
-| 2021.01.27 |    [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912?language=swift)    |            [12912S.swift](https://github.com/ee2e/APS/blob/master/programmers/12912S.playground/Contents.swift)             |           | 레벨1  |
-| 2021.01.26 |        [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840?language=swift)         |            [42840S.swift](https://github.com/ee2e/APS/blob/master/programmers/42840S.playground/Contents.swift)             | 완전탐색  | 레벨1  |
-| 2021.01.25 |  [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903?language=swift)   |            [12903S.swift](https://github.com/ee2e/APS/blob/master/programmers/12903S.playground/Contents.swift)             |  문자열   | 레벨1  |
-| 2021.01.23 |         [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748?language=swift)         | [K번째수.swift](https://github.com/ee2e/APS/blob/master/programmers/K%EB%B2%88%EC%A7%B8%EC%88%98.playground/Contents.swift) |   정렬    | 레벨1  |
-
-
-
 ### Python
 
 |    날짜    |                                             문제                                              |                                                                                     풀이                                                                                      |    알고리즘    | 난이도 |
