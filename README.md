@@ -52,6 +52,7 @@
 
 |    날짜    |                                             문제                                              |                                   풀이                                   |    알고리즘    | 난이도 |
 | :--------: | :-------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------: | :------------: | :----: |
+| 2021.07.21 |       [2개 이하로 다른 비트](https://programmers.co.kr/learn/courses/30/lessons/77885)        | [77885.py](https://github.com/ee2e/APS/blob/master/programmers/77885.py) |                | 레벨2  |
 | 2021.07.21 |       [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)        | [81301.py](https://github.com/ee2e/APS/blob/master/programmers/81301.py) |                | 레벨1  |
 | 2021.06.30 |        [약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884)         | [77884.py](https://github.com/ee2e/APS/blob/master/programmers/77884.py) |                | 레벨1  |
 | 2021.06.30 |            [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)            | [76501.py](https://github.com/ee2e/APS/blob/master/programmers/76501.py) |                | 레벨1  |
