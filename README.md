@@ -46,15 +46,13 @@
 | 2021.04.01 |            [RGB거리](https://www.acmicpc.net/problem/1149)             |  [1149.py](https://github.com/ee2e/APS/blob/master/bakjoon/1149.py)  | 동적 계획법 |  실버1  |
 | 2021.03.31 |          [유기농 배추](https://www.acmicpc.net/problem/1012)           |  [1012.py](https://github.com/ee2e/APS/blob/master/bakjoon/1012.py)  |     DFS     |  실버2  |
 
-
-
 ## 프로그래머스
 
 ### Python
 
 |    날짜    |                                             문제                                              |                                   풀이                                   |    알고리즘    | 난이도 |
 | :--------: | :-------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------: | :------------: | :----: |
-| 2021.08.02 |          [위클리 챌린지 1주차](https://programmers.co.kr/learn/courses/30/lessons/82612)          |  [82612.py](https://github.com/ee2e/APS/blob/master/programmers/82612.py)  |            | 레벨1  |
+| 2021.08.02 |        [위클리 챌린지 1주차](https://programmers.co.kr/learn/courses/30/lessons/82612)        | [82612.py](https://github.com/ee2e/APS/blob/master/programmers/82612.py) |                | 레벨1  |
 | 2021.07.28 |          [게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844)          |  [1844.py](https://github.com/ee2e/APS/blob/master/programmers/1844.py)  |      BFS       | 레벨2  |
 | 2021.07.21 |       [2개 이하로 다른 비트](https://programmers.co.kr/learn/courses/30/lessons/77885)        | [77885.py](https://github.com/ee2e/APS/blob/master/programmers/77885.py) |                | 레벨2  |
 | 2021.07.21 |       [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)        | [81301.py](https://github.com/ee2e/APS/blob/master/programmers/81301.py) |                | 레벨1  |
