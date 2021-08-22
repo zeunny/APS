@@ -52,6 +52,7 @@
 
 |    날짜    |                                             문제                                              |                                   풀이                                   |    알고리즘    | 난이도 |
 | :--------: | :-------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------: | :------------: | :----: |
+| 2021.08.22 |        [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)        | [81302.py](https://github.com/ee2e/APS/blob/master/programmers/81302.py) |                | 레벨2  |
 | 2021.08.05 |        [괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502)        | [76502.py](https://github.com/ee2e/APS/blob/master/programmers/76502.py) |                | 레벨2  |
 | 2021.08.02 |        [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485)        | [77485.py](https://github.com/ee2e/APS/blob/master/programmers/77485.py) |                | 레벨2  |
 | 2021.08.02 |        [위클리 챌린지 1주차](https://programmers.co.kr/learn/courses/30/lessons/82612)        | [82612.py](https://github.com/ee2e/APS/blob/master/programmers/82612.py) |                | 레벨1  |
