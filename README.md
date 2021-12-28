@@ -52,7 +52,8 @@
 
 |    날짜    |                                             문제                                              |                                   풀이                                   |    알고리즘    | 난이도 |
 | :--------: | :-------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------: | :------------: | :----: |
-| 2021.12.28 |        [최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491)        | [86491.py](https://github.com/ee2e/APS/blob/master/programmers/86491.py) | 
+| 2021.12.28 |        [나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)        | [87389.py](https://github.com/ee2e/APS/blob/master/programmers/87389.py) ||레벨1|
+| 2021.12.28 |        [최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491)        | [86491.py](https://github.com/ee2e/APS/blob/master/programmers/86491.py) ||레벨1|
 | 2021.12.25 |        [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)        | [86051.py](https://github.com/ee2e/APS/blob/master/programmers/86051.py) |                | 레벨1  |
 | 2021.08.22 |        [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)        | [81302.py](https://github.com/ee2e/APS/blob/master/programmers/81302.py) |                | 레벨2  |
 | 2021.08.05 |        [괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502)        | [76502.py](https://github.com/ee2e/APS/blob/master/programmers/76502.py) |                | 레벨2  |
